@@ -1,2 +1,2 @@
-Luckjoyson Hong - go by Lucky
+# Luckjoyson Hong - go by Lucky
 Math, Computer Science, and Education
